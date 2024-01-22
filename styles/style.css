@@ -1,0 +1,69 @@
+
+html, body{
+    margin: 0;
+    height: 100vh;
+    background-color: black;
+}
+/* Wallpapers Start */
+#wpOne{
+    background-image: url(/assets/IMG_8131.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+
+#wpTwo{
+    background-image: url(/assets/IMG_7441.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+/* Wallpapers End */
+
+/* Containers Start */
+.cHeight{
+    height: 100% !important;
+}
+/* Containers End */
+
+
+h1,
+h3{
+    color: white;
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:active{
+    text-decoration: none;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+}
+
+.accordion-body{
+    color: white;
+    background-image: url(/assets/IMG_8508.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: grey;
+}
+
+/* Text */
+p{
+    color: white;
+}
