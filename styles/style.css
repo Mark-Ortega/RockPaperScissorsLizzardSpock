@@ -92,12 +92,16 @@ font-weight: bold;
 
 .accordion-body{
     color: white;
-    
+
     background-image: url(/assets/IMG_7441.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
     background-color: grey;
+}
+
+.accordion-button{
+    background-color: orange;
 }
 
 /* Text */
