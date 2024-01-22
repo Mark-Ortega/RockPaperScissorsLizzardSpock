@@ -197,7 +197,7 @@ function GameStart(pointGoal, vsMode) {
   }
 
   function CounterUpdate() {
-    user1Score.textContent = `P2 Score: ${user1Points}`;
+    user1Score.textContent = `P1 Score: ${user1Points}`;
     user2Score.textContent = `P2 Score: ${user2Points}`;
   }
 
