@@ -13,7 +13,8 @@ html, body{
 }
 
 #wpTwo{
-    background-image: url(/assets/IMG_7441.jpg);
+    background-image: url(/assets/IMG_8508.jpg);
+    
     background-size:contain;
     background-repeat: no-repeat;
     background-position:center;
@@ -52,11 +53,47 @@ a:active{
 button{
     width: 100px;
     height: 50px;
+    background-color: orange;
+}
+#rockBtn{
+background-image: url(/assets/Rock.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+font-weight: bold;
+}
+#paperBtn{
+    background-image: url(/assets/paper.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+font-weight: bold;
+}
+#scissorsBtn{
+    background-image: url(/assets/download.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    color:Black;
+    font-weight: bold;
+}
+#lizardBtn{
+    background-image: url(/assets/lizzard.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    font-weight: bold;
+}
+#spockBtn{
+    background-image: url(/assets/spock.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:white;
+    font-weight: bold;
 }
 
 .accordion-body{
     color: white;
-    background-image: url(/assets/IMG_8508.jpg);
+    
+    background-image: url(/assets/IMG_7441.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
